@@ -11,7 +11,7 @@ Install python:
 
 Download repository with script:
 ```bash
-git clone github.com/bulatenkom/dedup
+git clone github.com/bulatenkom/manga-updater
 cd dedup
 ```
 
