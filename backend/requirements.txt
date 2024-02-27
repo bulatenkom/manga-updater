@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+structlog
+rich
+beautifulsoup4
+msgspec
